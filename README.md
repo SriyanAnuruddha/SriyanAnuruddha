@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SriyanAnuruddha
+- 👋 Hi, My name is Sriyan Anuruddha
 - 👨‍🎓 I’m currently learning Software Engineering at SLIIT Academy(Sri Lanka)
 
 - 💻 Want some work done related to web?
